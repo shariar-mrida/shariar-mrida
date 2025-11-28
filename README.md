@@ -13,7 +13,7 @@
 
 | **Technical Skills** | **Soft Skills** |
 | :--- | :--- |
-| • C, C++, Java, Python<br>• MySQL (SQL)<br>• HTML<br>• Git, GitHub<br>• Figma, Canva, Adobe Express<br>• Word, Excel, PowerPoint | • Teaching<br>• Effective Communicator<br>• Patient Mentor<br>• Self-Motivated Learner<br>• Strong Subject Knowledge<br>• Analytical Thinker<br>• Collaborative Team Player |
+| • C, C++, Java, JS, Python<br>• MySQL (SQL)<br>• HTML<br>• Git, GitHub<br>• Figma, Canva, Adobe Express<br>• Word, Excel, PowerPoint | • Teaching<br>• Effective Communicator<br>• Patient Mentor<br>• Self-Motivated Learner<br>• Strong Subject Knowledge<br>• Analytical Thinker<br>• Collaborative Team Player |
 
 ---
 
